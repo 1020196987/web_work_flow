@@ -1,0 +1,19 @@
+{
+  "name": "web_work_flow",
+  "version": "1.0.0",
+  "description": "方便web测试",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1020196987/web_work_flow.git"
+  },
+  "author": "Benjamin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1020196987/web_work_flow/issues"
+  },
+  "homepage": "https://github.com/1020196987/web_work_flow#readme"
+}
