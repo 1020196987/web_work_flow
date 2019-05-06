@@ -1,6 +1,4 @@
-//工程模式
-
-
+//工长模式
 class Product {
 	constructor (name) {
 		this.name = name
@@ -22,7 +20,6 @@ class Creator {
 	}
 }
 
-//
 let creator = new Creator()
 let p = creator.create('p1')
 p.init()
